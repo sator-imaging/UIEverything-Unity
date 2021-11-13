@@ -29,10 +29,3 @@ use `SetValueWithoutNotify` method in sender class instead of assigning new valu
 
 `SetValueWithoutNotify` method doesn't invoke event callback so that
 you can prevent potential of callback looping.
-
-
-
-Copyright
----------
-
-Copyright © 2021 Sator Imaging, all rights reserved.
